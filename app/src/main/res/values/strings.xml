@@ -2,4 +2,19 @@
     <string name="app_name">App de Cadastro</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fornecedores">Fornecedores</string>
+    <string name="clientes">Clientes</string>
+    <string name="produtos">Produtos</string>
+    <string name="sair">Sair</string>
+    <string name="lista">Lista</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="salvar">Salvar</string>
+    <string name="nome">Nome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="nome_fantasia">Nome Fantasia</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="marca">Marca</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="pre_o_r">Preço R$</string>
 </resources>
