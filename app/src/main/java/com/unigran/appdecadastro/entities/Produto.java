@@ -5,7 +5,7 @@ public class Produto {
     private String nome;
     private String marca;
     private Integer quantidade;
-    private Float preco;
+    private Double preco;
 
     public Integer getId() {
         return id;
@@ -39,11 +39,11 @@ public class Produto {
         this.quantidade = quantidade;
     }
 
-    public Float getPreco() {
+    public Double getPreco() {
         return preco;
     }
 
-    public void setPreco(Float preco) {
+    public void setPreco(Double preco) {
         this.preco = preco;
     }
 
